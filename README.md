@@ -1,4 +1,4 @@
-# 🛠️ Mechanical Designs 
+# 🛠️ Mechanical Designs by Vishnu
 
 A collection of my CAD models built during my B.Tech Mechanical Engineering 
 at Delhi Technological University (DTU), Batch 2025–2029.
