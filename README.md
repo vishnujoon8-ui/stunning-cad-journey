@@ -1,4 +1,4 @@
-# 🛠️ Stunning CAD Journey
+# 🛠️ Mechanical Designs 
 
 A collection of my CAD models built during my B.Tech Mechanical Engineering 
 at Delhi Technological University (DTU), Batch 2025–2029.
